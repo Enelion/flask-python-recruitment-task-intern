@@ -1,6 +1,6 @@
-# Zadanie rekrutacyjne, Backend Developer
+# Zadanie rekrutacyjne, Python Developer Intern
 ## Treść zadania
-Przygotować backend, który gromadzi i serwuje punkty ładowania (funkcjonalność analogiczna do Open Charge Map API).
+Przygotować backend, który gromadzi i serwuje punkty ładowania.
 Przykładowo, zapytanie GET na url do pobrania wszystkich punktów ładowania powinno zwrócić:
 ```
 [ChargeNetwork1, ...]
@@ -17,6 +17,4 @@ Przykładowo, zapytanie GET na url do pobrania wszystkich punktów ładowania po
 - wykorzystanie Flask, SQLAlchemy
 - krótka instrukcja instalacji i uruchomienia
 - gromadzenie danych w PostgreSQL
-
-## Źródła:
-- Dokumentacja OpenChargeMap - https://openchargemap.org/site/develop/api
+- opis przygotowanych endpointów
